@@ -31,6 +31,13 @@ namespace XBM
 
 // Automatically generated file: do not edit
 
+#include "logo.axbm"
+/**
+ * XBitmap&emsp;<b>logo</b>&emsp;(120px × 60px)
+ * <img src="xbm/logo.png" alt="logo" class="xbm" style="width:90.0em;">
+ */
+const XBitmap logo = { logo_width, logo_height, logo_bits };
+
 #include "mute_10B.axbm"
 /**
  * XBitmap&emsp;<b>mute_10B</b>&emsp;(10px × 10px)
